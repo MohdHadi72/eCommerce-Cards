@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Charm:wght@400;700&family=Cinzel+Decorative:wght@400;700;900&family=Dosis:wght@200..800&family=Homemade+Apple&family=Italianno&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Kaushan+Script&family=Merienda:wght@300..900&family=Oranienbaum&family=Rubik+Doodle+Shadow&family=Satisfy&family=Tangerine:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Dosis", sans-serif;
+    box-sizing: border-box;
+}
+.container h1 {
+  font-weight: 700;
+  font-size: 3rem;
+  
+  
+}
+
+nav a{
+  font-size: 20px;
+ 
+  font-weight: 600;
+  color: white;
+
+}
+nav a:hover{
+  color: rgb(236, 6, 6);
+  border: 1px solid rgb(222, 217, 217);
+  background-color: rgba(255, 255, 255, 0.913);
+  box-shadow: 0px 10px 9px  rgb(253, 253, 253);
+  padding: 10px;
+  border-radius: 50%;
+ 
+}
+
+nav  img{
+  border-radius: 50%;
+}
+.card img{
+  border-radius: 9px;
+}
+
+.card img:hover{
+  border-radius: 0;
+}
+
+.card h6{
+  font-weight: 700;
+}
+
+.card{
+  box-shadow: 0 10px 10px black;
+  background: rgb(238, 237, 237);
+}
+
+
+.card h4{
+  font-weight: 600;
+
+}
+
+.btn-group button{
+  font-weight: 600;
+  
+}
